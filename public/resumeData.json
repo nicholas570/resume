@@ -4,7 +4,7 @@
     "occupation": "REACT/NODE.JS",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Passioné par le web, j'ai fais de JavaScript mon langage favori et React est le framework que j'utilise au quotidien. Je porte une attention particulière à l'accessibilité et au clean code. Calme et serein, j'aime travailler dans un environement agile au sein duquel je peux m'épanouir. Je suis un grand fan de science fiction et de foot... oui c'est compatible! ",
+    "bio": "Passioné par le web, JavaScript est mon langage favori. J'aime évoluer dans son environement (Node, Vue, Firebase, Express...) et j'ai un préfèrence pour React qui est la librairie que j'utilise le plus. Je porte une attention particulière à l'accessibilité et au clean code. Calme et serein, j'aime travailler dans un environement agile au sein duquel je peux m'épanouir. Je suis un grand fan de science fiction et de foot... oui c'est compatible! ",
     "contactmessage": "Ce formulaire n'est pas actif pour le moment, merci de me contacter par mail",
     "email": "nicolas.mercier570@gmail.com",
     "phone": "06 76 02 28 40",
@@ -34,7 +34,7 @@
         "school": "Wild Code School",
         "degree": "RNCP 3 Developpeur web et mobile",
         "graduated": "Bientôt",
-        "description": "Suite à POEC Java, je me suis vite rendu compte de mon intêrét pour JavaScript. J'ai entamé une formation fullstack de 5 mois (React/Node) grâce à laqulle j'ai pu acquérir et déveloper des compétences sur ces technologies. Compétences que j'ai mises en pratique lors d'un stage de 4 mois chez ??? "
+        "description": "Suite à POEC Java, je me suis vite rendu compte de mon intêrét pour JavaScript. J'ai entamé une formation fullstack de 5 mois (React/Node) grâce à laquelle j'ai pu acquérir et déveloper des compétences sur ces technologies. Compétences que j'ai mises en pratique lors d'un stage de 4 mois chez ??? "
       },
       {
         "school": "EPSI",
@@ -103,37 +103,37 @@
       {
         "title": "Share that rent",
         "category": "Application de partage de loyer que j'ai créé pour un usage personnel ",
-        "image": "canadian-wanderlust.jpg",
+        "image": "share.jpg",
         "url": "https://share-the-rent.netlify.app/"
       },
       {
         "title": "Squizz",
         "category": "Projet 2 avec la WCS: application de quizz avec l'API Open Trivia DB",
-        "image": "fury-fighting-gear.jpg",
+        "image": "squizz.jpg",
         "url": "https://squizz.netlify.app/"
       },
       {
         "title": "Eridan 2056",
         "category": "Site vitrine de ma futur agence de voyage dans l'espace",
-        "image": "resume-website.jpg",
+        "image": "eridan.jpg",
         "url": "https://nicholas570.github.io/space-travel-agency/"
       },
       {
         "title": "Memory",
         "category": "Memory réalisé en react",
-        "image": "smirkspace.jpg",
+        "image": "memory.jpg",
         "url": "https://react-memo.netlify.app/"
       },
       {
         "title": "Planetarium",
         "category": "Projet 1 avec la WCS: site statique du planétarium de Nantes",
-        "image": "smirkspace.jpg",
+        "image": "planetarium.jpg",
         "url": "https://nicholas570.github.io/projet-planetarium/accueil.html"
       },
       {
         "title": "Travel from home",
         "category": "Projet réalisé lors d'un hackaton sur le thème 'travel from home', durant le confinemennt, avec l'API du MET.",
-        "image": "smirkspace.jpg",
+        "image": "met.jpg",
         "url": "https://vibrant-bardeen-443379.netlify.app/"
       }
     ]

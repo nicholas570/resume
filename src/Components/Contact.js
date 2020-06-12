@@ -82,7 +82,7 @@ class Contact extends Component {
                 </div>
 
                 <div>
-                  <button className='submit'>Submit</button>
+                  <button className='submit'>Envoyer</button>
                   <span id='image-loader'>
                     <img alt='' src='images/loader.gif' />
                   </span>
