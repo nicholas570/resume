@@ -1,5 +1,7 @@
 ## Personal website using a template
 
+[Preview here](https://nicolasmercier.netlify.app/)
+
 ### TODO
 
 - change images
