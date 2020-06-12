@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Nicolas Mercier",
+    "occupation": "REACT/NODE.JS",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "Passioné par le web, j'ai fais de JavaScript mon langage favori et React est le framework que j'utilise au quotidien. Je porte une attention particulière à l'accessibilité et au clean code. Calme et serein, j'aime travailler dans un environement agile au sein duquel je peux m'épanouir. Je suis un grand fan de science fiction et de foot... oui c'est compatible! ",
+    "contactmessage": "Ce formulaire n'est pas actif pour le moment, merci de me contacter par mail",
+    "email": "nicolas.mercier570@gmail.com",
+    "phone": "06 76 02 28 40",
+    "address": {
+      "street": "56 rue Jean Emile Laboureur",
+      "city": "Nantes",
+      "zip": "44000"
+    },
+    "website": "http://www.timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nicolas-mercier-80ba1232/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nicholas570",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Wild Code School",
+        "degree": "RNCP 3 Developpeur web et mobile",
+        "graduated": "Bientôt",
+        "description": "Suite à POEC Java, je me suis vite rendu compte de mon intêrét pour JavaScript. J'ai entamé une formation fullstack de 5 mois (React/Node) grâce à laqulle j'ai pu acquérir et déveloper des compétences sur ces technologies. Compétences que j'ai mises en pratique lors d'un stage de 4 mois chez ??? "
+      },
+      {
+        "school": "EPSI",
+        "degree": "POEC développeur Java/JEE",
+        "graduated": "2020",
+        "description": "Après m'être auto-formé à la programmation, j'ai intégré une POEC. Durant ces 3 mois, j'ai appris la programmation orientée objet avec Java/JEE, les bases de données avec MySql ainsi que JavaScript."
+      },
+      {
+        "school": "UBO",
+        "degree": "L2 LEA anglais/espagnol/chinois",
+        "graduated": "2012",
+        "description": "J'ai toujours aimé les langues étrangères. Après un cursus en hotellerie et de nombreux stages à l'étranger, j'ai naturellement continué mon apprentissage à l'UBO de Brest."
+      }
+    ],
+    "work": [
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Node",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Bootstrap4",
+        "level": "70%"
+      },
+      {
+        "name": "MySql",
+        "level": "50%"
+      },
+      {
+        "name": "Java",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Share that rent",
+        "category": "Application de partage de loyer que j'ai créé pour un usage personnel ",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://share-the-rent.netlify.app/"
+      },
+      {
+        "title": "Squizz",
+        "category": "Projet 2 avec la WCS: application de quizz avec l'API Open Trivia DB",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://squizz.netlify.app/"
+      },
+      {
+        "title": "Eridan 2056",
+        "category": "Site vitrine de ma futur agence de voyage dans l'espace",
+        "image": "resume-website.jpg",
+        "url": "https://nicholas570.github.io/space-travel-agency/"
+      },
+      {
+        "title": "Memory",
+        "category": "Memory réalisé en react",
+        "image": "smirkspace.jpg",
+        "url": "https://react-memo.netlify.app/"
+      },
+      {
+        "title": "Planetarium",
+        "category": "Projet 1 avec la WCS: site statique du planétarium de Nantes",
+        "image": "smirkspace.jpg",
+        "url": "https://nicholas570.github.io/projet-planetarium/accueil.html"
+      },
+      {
+        "title": "Travel from home",
+        "category": "Projet réalisé lors d'un hackaton sur le thème 'travel from home', durant le confinemennt, avec l'API du MET.",
+        "image": "smirkspace.jpg",
+        "url": "https://vibrant-bardeen-443379.netlify.app/"
+      }
+    ]
+  }
+}
