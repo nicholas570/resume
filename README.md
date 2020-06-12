@@ -4,7 +4,6 @@
 
 ### TODO
 
-- change images
-- work on bio
+- work on description/content
 - need back end for the contact form
 - clean code with eslint
