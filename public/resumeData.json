@@ -4,7 +4,7 @@
     "occupation": "REACT/NODE.JS",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Passioné par le web, JavaScript est mon langage favori. J'aime évoluer dans son environement (Node, Vue, Firebase, Express...) et j'ai un préfèrence pour React qui est la librairie que j'utilise le plus. Je porte une attention particulière à l'accessibilité et au clean code. Calme et serein, j'aime travailler dans un environement agile au sein duquel je peux m'épanouir. Je suis un grand fan de science fiction et de foot... oui c'est compatible! ",
+    "bio": "Passioné par le web depuis longtemps, j'ai commencé ma reconversion vers le développement en 2019. Après une formation intensive en Java, j'ai souhaité me diriger vers le JavaScript. J'ai intégré la Wild Code School où j'ai passé 5 mois à développer mes compétences, à travers plusieurs projets en agilité. J'ai très rapidemment accroché avec React qui est la librairie que j'utilise le plus et qui, j'en suis persuadé, va prendre encore plus d'importance dans les années à venir. Je porte une attention particulière à l'accessibilité, c'est un sujet qui me tient à coeur et sur lequel j'aimerais travailler. Quand je ne suis pas derrière mon écran, je partage mon temps entre le badminton, que je pratique en club, le futsal, la cuisine et les livres de science fiction. Dynamique et organisé, je suis disponible pour mettre à profit mes compétences au service de vos projets.",
     "contactmessage": "Ce formulaire n'est pas actif pour le moment, merci de me contacter par mail",
     "email": "nicolas.mercier570@gmail.com",
     "phone": "06 76 02 28 40",
@@ -13,7 +13,7 @@
       "city": "Nantes",
       "zip": "44000"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://nicolasmercier.netlify.app/",
     "social": [
       {
         "name": "linkedin",
@@ -34,19 +34,19 @@
         "school": "Wild Code School",
         "degree": "RNCP 3 Developpeur web et mobile",
         "graduated": "Bientôt",
-        "description": "Suite à POEC Java, je me suis vite rendu compte de mon intêrét pour JavaScript. J'ai entamé une formation fullstack de 5 mois (React/Node) grâce à laquelle j'ai pu acquérir et développer des compétences sur ces technologies. Compétences que j'ai mises en pratique lors d'un stage de 4 mois chez ??? "
+        "description": "Suite à ma formation Java/Jee, j'ai intégré cette formation intensive de 5 mois fullstack JS (React/Node/Express)"
       },
       {
         "school": "EPSI",
         "degree": "POEC développeur Java/JEE",
-        "graduated": "2020",
+        "graduated": "2019/2020",
         "description": "Après m'être auto-formé à la programmation, j'ai intégré une POEC. Durant ces 3 mois, j'ai appris la programmation orientée objet avec Java/JEE, les bases de données avec MySql ainsi que JavaScript."
       },
       {
         "school": "UBO",
         "degree": "L2 LEA anglais/espagnol/chinois",
         "graduated": "2012",
-        "description": "J'ai toujours aimé les langues étrangères. Après un cursus en hotellerie et de nombreux stages à l'étranger, j'ai naturellement continué mon apprentissage à l'UBO de Brest."
+        "description": "Après un cursus en hotellerie et de nombreux stages à l'étranger, j'ai continué mon apprentissage des langues étrangères à l'UBO de Brest."
       }
     ],
     "work": [
@@ -65,16 +65,28 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "React.js",
+        "level": "70%"
       },
       {
-        "name": "Node",
+        "name": "Redux",
         "level": "50%"
       },
       {
-        "name": "ReactJs",
-        "level": "70%"
+        "name": "Node.js",
+        "level": "50%"
+      },
+      {
+        "name": "Express",
+        "level": "50%"
+      },
+      {
+        "name": "MySql",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
       },
       {
         "name": "CSS",
@@ -87,14 +99,6 @@
       {
         "name": "Bootstrap4",
         "level": "70%"
-      },
-      {
-        "name": "MySql",
-        "level": "50%"
-      },
-      {
-        "name": "Java",
-        "level": "50%"
       }
     ]
   },
@@ -114,7 +118,7 @@
       },
       {
         "title": "Eridan 2056",
-        "category": "Site vitrine de ma futur agence de voyage dans l'espace",
+        "category": "Site vitrine statique uniquement avec Bootstrap 4",
         "image": "eridan.jpg",
         "url": "https://nicholas570.github.io/space-travel-agency/"
       },

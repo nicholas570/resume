@@ -41,7 +41,7 @@ class Header extends Component {
             </li>
             <li>
               <a className='smoothscroll' href='#resume'>
-                Résumé
+                CV
               </a>
             </li>
             <li>
@@ -56,7 +56,7 @@ class Header extends Component {
           <div className='banner-text'>
             <h1 className='responsive-headline'>{name}</h1>
             <h3>
-              Développeur <span>{occupation}</span> junior basé à {city}.{' '}
+              Développeur <span>{occupation}</span> junior à {city}.{' '}
               {description}.
             </h3>
             <hr />
