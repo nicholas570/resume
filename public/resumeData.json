@@ -106,13 +106,19 @@
     "projects": [
       {
         "title": "Share that rent",
-        "category": "Application de partage de loyer que j'ai créé pour un usage personnel ",
+        "category": "Application de partage de loyer (React) ",
         "image": "share.jpg",
         "url": "https://share-the-rent.netlify.app/"
       },
       {
+        "title": "Lucky Cookie",
+        "category": "Site vitrine en cour de réalisation (React/Node)",
+        "image": "coffee.jpg",
+        "url": "https://lucky-cookies.netlify.app/"
+      },
+      {
         "title": "Squizz",
-        "category": "Projet 2 avec la WCS: application de quizz avec l'API Open Trivia DB",
+        "category": "Projet 2 avec la WCS: application de quizz avec l'API Open Trivia DB (React)",
         "image": "squizz.jpg",
         "url": "https://squizz.netlify.app/"
       },
@@ -130,13 +136,13 @@
       },
       {
         "title": "Planetarium",
-        "category": "Projet 1 avec la WCS: site statique du planétarium de Nantes",
+        "category": "Projet 1 avec la WCS: site statique du planétarium de Nantes (Html/Css)",
         "image": "planetarium.jpg",
         "url": "https://nicholas570.github.io/projet-planetarium/accueil.html"
       },
       {
         "title": "Travel from home",
-        "category": "Projet réalisé lors d'un hackaton sur le thème 'travel from home', durant le confinemennt, avec l'API du MET.",
+        "category": "Projet réalisé lors d'un hackaton sur le thème 'travel from home', durant le confinemennt, avec l'API du MET (React)",
         "image": "met.jpg",
         "url": "https://vibrant-bardeen-443379.netlify.app/"
       }
