@@ -145,6 +145,12 @@
         "category": "Projet réalisé lors d'un hackaton sur le thème 'travel from home', durant le confinemennt, avec l'API du MET (React)",
         "image": "met.jpg",
         "url": "https://vibrant-bardeen-443379.netlify.app/"
+      },
+      {
+        "title": "Chat app",
+        "category": "Application de messagerie instantanée (React/Firebase)",
+        "image": "chatApp.png",
+        "url": "https://chatappplication.netlify.app/"
       }
     ]
   }
