@@ -135,10 +135,10 @@
         "url": "https://react-memo.netlify.app/"
       },
       {
-        "title": "Planetarium",
-        "category": "Projet 1 avec la WCS: site statique du planétarium de Nantes (Html/Css)",
-        "image": "planetarium.jpg",
-        "url": "https://nicholas570.github.io/projet-planetarium/accueil.html"
+        "title": "Markdown editor",
+        "category": "Editeur de Markdown",
+        "image": "markdown.png",
+        "url": "https://markdownneditor.netlify.app/"
       },
       {
         "title": "Travel from home",
