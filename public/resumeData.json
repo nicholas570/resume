@@ -136,9 +136,15 @@
       },
       {
         "title": "Markdown editor",
-        "category": "Editeur de Markdown",
+        "category": "Editeur de Markdown (React)",
         "image": "markdown.png",
         "url": "https://markdownneditor.netlify.app/"
+      },
+      {
+        "title": "24H",
+        "category": "Site static, projet 1 WCS (HTML5, CSS3, JavaScript",
+        "image": "24H.png",
+        "url": "https://chatappplication.netlify.app/"
       },
       {
         "title": "Travel from home",
