@@ -123,12 +123,6 @@
         "url": "https://squizz.netlify.app/"
       },
       {
-        "title": "Eridan 2056",
-        "category": "Site vitrine statique uniquement avec Bootstrap 4",
-        "image": "eridan.jpg",
-        "url": "https://nicholas570.github.io/space-travel-agency/"
-      },
-      {
         "title": "Memory",
         "category": "Memory réalisé en react",
         "image": "memory.jpg",
