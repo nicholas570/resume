@@ -34,7 +34,7 @@
         "school": "Wild Code School",
         "degree": "RNCP 3 Developpeur web et mobile",
         "graduated": "Bientôt",
-        "description": "Suite à ma formation Java/Jee, j'ai intégré cette formation intensive de 5 mois fullstack JS (React/Node/Express)"
+        "description": "Suite à ma formation Java/Jee, j'ai intégré la Wild Code School pour 5 mois. A travers plusieurs projets, en agilité, j'ai pu acquérir et développer des compétences techniques telles que la réalisation d'UI et la récupération de données venant d'une API, avec React, la modélisation et création de base de données avec MySql, la création de serveur, la mise en place d'un CRUD et la création d'API REST, la prévention d'injection SQL ainsi que la création de système d'authentification, avec Express et Nest."
       },
       {
         "school": "EPSI",
