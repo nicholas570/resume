@@ -112,7 +112,7 @@
       },
       {
         "title": "Lucky Cookie",
-        "category": "Site vitrine en cour de réalisation (React/Node)",
+        "category": "Boutique de cookie en ligne (En cour de réalisation) (React/Redux/Express/MySql)",
         "image": "coffee.jpg",
         "url": "https://lucky-cookies.netlify.app/"
       },
@@ -151,6 +151,12 @@
         "category": "Application de messagerie instantanée (React/Firebase)",
         "image": "chatApp.png",
         "url": "https://chatappplication.netlify.app/"
+      },
+      {
+        "title": "Lockdown map",
+        "category": "Projet réalisé, lors du confinement, afin de définir un rayon d'un kilomètre autour d'une position donnée (React/Leaflet)",
+        "image": "lockdown.png",
+        "url": "https://lockdownmap.netlify.app/"
       }
     ]
   }
