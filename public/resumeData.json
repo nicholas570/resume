@@ -153,10 +153,10 @@
         "url": "https://chatappplication.netlify.app/"
       },
       {
-        "title": "Lockdown map",
+        "title": "Limbo",
         "category": "Projet réalisé, lors du confinement, afin de définir un rayon d'un kilomètre autour d'une position donnée (React/Leaflet)",
         "image": "lockdown.png",
-        "url": "https://lockdownmap.netlify.app/"
+        "url": "https://limboz.netlify.app/"
       }
     ]
   }
