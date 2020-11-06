@@ -112,19 +112,19 @@
       },
       {
         "title": "Lucky Cookie",
-        "category": "Boutique de cookie en ligne (En cour de réalisation) (React/Redux/Express/MySql)",
+        "category": "Boutique de cookie en ligne (En cours de réalisation) (React/Redux/Express/MySql)",
         "image": "coffee.jpg",
         "url": "https://lucky-cookies.netlify.app/"
       },
       {
         "title": "Squizz",
-        "category": "Projet 2 avec la WCS: application de quizz avec l'API Open Trivia DB (React)",
+        "category": "Application de quizz avec l'API Open Trivia DB (React)",
         "image": "squizz.jpg",
         "url": "https://squizz.netlify.app/"
       },
       {
         "title": "Memory",
-        "category": "Memory réalisé en react",
+        "category": "Memory (React)",
         "image": "memory.jpg",
         "url": "https://react-memo.netlify.app/"
       },
@@ -135,10 +135,10 @@
         "url": "https://markdownneditor.netlify.app/"
       },
       {
-        "title": "24H",
-        "category": "Site static, projet 1 WCS (HTML5, CSS3, JavaScript",
-        "image": "24H.png",
-        "url": "https://nicholas570.github.io/24h/html/home.html"
+        "title": "GeoBike",
+        "category": "Application de géolocalisation et disponibilité des bicloos (En cours de réalisation, image non actuelle) (React, Leaflet, API Nantes data)",
+        "image": "squizz.jpg",
+        "url": "https://github.com/nicholas570/nts-js-202009-p2-bicloo"
       },
       {
         "title": "Travel from home",
