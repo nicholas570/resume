@@ -105,12 +105,6 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Share that rent",
-        "category": "Application de partage de loyer (React) ",
-        "image": "share.jpg",
-        "url": "https://share-the-rent.netlify.app/"
-      },
-      {
         "title": "Lucky Cookie",
         "category": "Boutique de cookie en ligne (En cours de réalisation) (React/Redux/Express/MySql)",
         "image": "coffee.jpg",
@@ -123,16 +117,16 @@
         "url": "https://squizz.netlify.app/"
       },
       {
-        "title": "Memory",
-        "category": "Memory (React)",
-        "image": "memory.jpg",
-        "url": "https://react-memo.netlify.app/"
-      },
-      {
         "title": "Markdown editor",
         "category": "Editeur de Markdown (React)",
         "image": "markdown.png",
         "url": "https://markdownneditor.netlify.app/"
+      },
+      {
+        "title": "Memory",
+        "category": "Memory (React)",
+        "image": "memory.jpg",
+        "url": "https://react-memo.netlify.app/"
       },
       {
         "title": "GeoBike",
@@ -151,6 +145,12 @@
         "category": "Application de messagerie instantanée (React/Firebase)",
         "image": "chatApp.png",
         "url": "https://chatappplication.netlify.app/"
+      },
+      {
+        "title": "TypeQuizz",
+        "category": "Application de quizz (React/TypeScript)",
+        "image": "typeQuizz.png",
+        "url": "https://typequizz.netlify.app/"
       },
       {
         "title": "Limbo",
