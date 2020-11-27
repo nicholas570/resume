@@ -130,9 +130,9 @@
       },
       {
         "title": "GeoBike",
-        "category": "Application de géolocalisation et disponibilité des bicloos (En cours de réalisation, image non actuelle) (React, Leaflet, API Nantes data)",
-        "image": "squizz.jpg",
-        "url": "https://github.com/nicholas570/nts-js-202009-p2-bicloo"
+        "category": "Application de géolocalisation et disponibilité des bicloos (React, Leaflet, API Nantes data)",
+        "image": "geobike.png",
+        "url": "https://geobike.netlify.app/"
       },
       {
         "title": "Travel from home",
