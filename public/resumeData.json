@@ -105,7 +105,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Lucky Cookie",
+        "title": "Lucky Cookies",
         "category": "Boutique de cookie en ligne (En cours de réalisation) (React/Redux/Express/MySql)",
         "image": "coffee.jpg",
         "url": "https://lucky-cookies.netlify.app/"
