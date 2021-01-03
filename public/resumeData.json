@@ -157,6 +157,12 @@
         "category": "Projet réalisé, lors du confinement, afin de définir un rayon d'un kilomètre autour d'une position donnée (React/Leaflet)",
         "image": "lockdown.png",
         "url": "https://limboz.netlify.app/"
+      },
+      {
+        "title": "Plus de projet sur Github",
+        "category": "Express, Node, Vue, REST, JWT ...",
+        "image": "github.png",
+        "url": "https://github.com/nicholas570"
       }
     ]
   }
