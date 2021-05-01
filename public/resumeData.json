@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Nicolas Mercier",
-    "occupation": "REACT/NODE.JS",
+    "occupation": "REACT/NODE.JS/.NET",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Passioné par le web depuis longtemps, j'ai commencé ma reconversion vers le développement en 2019. Après une formation intensive en Java, j'ai souhaité me diriger vers le JavaScript. J'ai intégré la Wild Code School où j'ai passé 5 mois à développer mes compétences, à travers plusieurs projets en agilité. J'ai très rapidemment accroché avec React qui est la librairie que j'utilise le plus et qui, j'en suis persuadé, va prendre encore plus d'importance dans les années à venir. Je porte une attention particulière à l'accessibilité, c'est un sujet qui me tient à coeur et sur lequel j'aimerais travailler. Quand je ne suis pas derrière mon écran, je partage mon temps entre le badminton, que je pratique en club, le futsal, la cuisine et les livres de science fiction. Dynamique et organisé, je suis disponible pour mettre à profit mes compétences au service de vos projets.",
+    "bio": "Développeur fullstack, j'ai une forte appétence pour React et son écosystème. Adepte du travail en équipe et de l'agilité, j'aime autant créer des interfaces utilisateur responsives que des API Rest. J'évolue actuellement sur une stack React/Ts/.Net. Je porte une attention particulière à l'accessibilité, c'est un sujet qui me tient à coeur et sur lequel j'aimerais travailler. Quand je ne suis pas derrière mon écran, je partage mon temps entre le badminton, que je pratique en club, le futsal, la cuisine et les livres de science fiction.",
     "contactmessage": "Ce formulaire n'est pas actif pour le moment, merci de me contacter par mail",
     "email": "nicolas.mercier570@gmail.com",
     "phone": "06 76 02 28 40",
@@ -32,9 +32,15 @@
     "education": [
       {
         "school": "Wild Code School",
+        "degree": "RNCP 2 Concepteur développeur d'applications",
+        "graduated": "2021/2022",
+        "description": "Formation en alternance, durant laquelle j'approfondis des sujets tels que les patterns, la CI/CD, Docker..."
+      },
+      {
+        "school": "Wild Code School",
         "degree": "RNCP 3 Developpeur web et mobile",
-        "graduated": "Bientôt",
-        "description": "Suite à ma formation Java/Jee, j'ai intégré la Wild Code School pour 5 mois. A travers plusieurs projets, en agilité, j'ai pu acquérir et développer des compétences techniques telles que la réalisation d'UI et la récupération de données venant d'une API, avec React, la modélisation et création de base de données avec MySql, la création de serveur, la mise en place d'un CRUD et la création d'API REST, la prévention d'injection SQL ainsi que la création de système d'authentification, avec Express et Nest."
+        "graduated": "2021",
+        "description": "Suite à une formation Java/Jee, j'ai intégré la Wild Code School pour 5 mois. A travers plusieurs projets, en agilité, j'ai pu acquérir et développer des compétences techniques telles que la réalisation d'UI et la communication avec une API, la modélisation et création de base de données avec MySql, la création de server, d'API REST et la mise en place d'authentifcation avec JWT."
       },
       {
         "school": "EPSI",
@@ -51,53 +57,43 @@
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "D-Edge",
+        "title": "Développeur fullstack",
+        "years": "Février 2021 - Present",
+        "description": "Suite à un stage de 4 mois, j'ai intégré l'équipe CRO de D-Edge en tant qu'alternant. Tout d'abord sur des features front, je suis monté en compétence sur .Net et j'ai pris part au développement et à la maintenance de l'API."
       }
     ],
     "skills": [
       {
         "name": "React.js",
-        "level": "70%"
+        "level": "80%"
       },
       {
-        "name": "Redux",
+        "name": "Redux/X state",
         "level": "50%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "80%"
       },
       {
         "name": "Node.js",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "Express",
-        "level": "50%"
+        "level": "60%"
       },
       {
-        "name": "MySql",
+        "name": "Sql",
         "level": "50%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "70%"
       },
       {
-        "name": "CSS",
-        "level": "55%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "Bootstrap4",
+        "name": "Material UI",
         "level": "70%"
       }
     ]
@@ -133,12 +129,6 @@
         "category": "Application de géolocalisation et disponibilité des bicloos (React, Leaflet, API Nantes data)",
         "image": "geobike.png",
         "url": "https://geobike.netlify.app/"
-      },
-      {
-        "title": "Travel from home",
-        "category": "Projet réalisé lors d'un hackaton sur le thème 'travel from home', durant le confinemennt, avec l'API du MET (React)",
-        "image": "met.jpg",
-        "url": "https://vibrant-bardeen-443379.netlify.app/"
       },
       {
         "title": "Chat app",
