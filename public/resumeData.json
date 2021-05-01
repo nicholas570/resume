@@ -85,6 +85,14 @@
         "level": "60%"
       },
       {
+        "name": ".Net",
+        "level": "50%"
+      },
+      {
+        "name": "Entity Framework",
+        "level": "50%"
+      },
+      {
         "name": "Sql",
         "level": "50%"
       },
