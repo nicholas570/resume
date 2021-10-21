@@ -56,8 +56,7 @@ class Header extends Component {
           <div className='banner-text'>
             <h1 className='responsive-headline'>{name}</h1>
             <h3>
-              Développeur <span>{occupation}</span> junior à {city}{' '}
-              {description}
+              Développeur <span>{occupation}</span> à {city} {description}
             </h3>
             <hr />
             <ul className='social'>{networks}</ul>
