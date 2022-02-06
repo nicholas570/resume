@@ -4,7 +4,7 @@
     "occupation": "REACT/NODE/.NET",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Développeur fullstack, j'ai une forte appétence pour React et son écosystème. Adepte du travail en équipe et de l'agilité, j'aime autant créer des interfaces utilisateur responsives que des API Rest. J'évolue actuellement sur une stack React/Ts/.Net. Je porte une attention particulière à l'accessibilité, c'est un sujet qui me tient à coeur et sur lequel j'aimerais travailler. Quand je ne suis pas derrière mon écran, je partage mon temps entre le badminton, que je pratique en club, le futsal, la cuisine et les livres de science fiction.",
+    "bio": "Développeur fullstack, j'ai une forte appétence pour React et son écosystème. Adepte du travail en équipe et de l'agilité, j'aime autant créer des interfaces utilisateur responsives que des API. J'évolue actuellement sur une stack React/Ts/.Net. Je porte une attention particulière à l'accessibilité, c'est un sujet qui me tient à coeur et sur lequel j'aimerais travailler. Quand je ne suis pas derrière mon écran, je partage mon temps entre le badminton, que je pratique en club, le futsal, la cuisine et les livres de science fiction.",
     "contactmessage": "Ce formulaire n'est pas actif pour le moment, merci de me contacter par mail",
     "email": "nicolas.mercier570@gmail.com",
     "phone": "06 76 02 28 40",
@@ -34,7 +34,7 @@
         "school": "Wild Code School",
         "degree": "RNCP 2 Concepteur développeur d'applications",
         "graduated": "2021/2022",
-        "description": "En alternance, j' ai pu approfondir des sujets techniques tels que les patterns, l'architecture, la CI/CD, Docker... Ainsi que la gestion et la vie d'un projet au projet au quotidien."
+        "description": "En alternance, j'ai pu approfondir des sujets techniques tels que les patterns, l'architecture, la CI/CD, Docker... Ainsi que la gestion de produit en agilité"
       },
       {
         "school": "Wild Code School",
@@ -77,10 +77,6 @@
         "level": "80%"
       },
       {
-        "name": "Express",
-        "level": "60%"
-      },
-      {
         "name": ".Net",
         "level": "40%"
       },
@@ -103,16 +99,10 @@
         "url": "https://lucky-cookies.netlify.app/"
       },
       {
-        "title": "Squizz",
-        "category": "Application de quizz avec l'API Open Trivia DB (React)",
-        "image": "squizz.jpg",
-        "url": "https://squizz.netlify.app/"
-      },
-      {
-        "title": "Memory",
-        "category": "Memory (React)",
-        "image": "memory.jpg",
-        "url": "https://react-memo.netlify.app/"
+        "title": "Classic models",
+        "category": "Formulaire d'authentifcation  (En cours de réalisation) (React/Xstate/Material ui)",
+        "image": "github.png",
+        "url": "https://classic-models.netlify.app/"
       },
       {
         "title": "GeoBike",
@@ -121,20 +111,13 @@
         "url": "https://geobike.netlify.app/"
       },
       {
-        "title": "Chat app",
-        "category": "Application de messagerie instantanée (React/Firebase)",
-        "image": "chatApp.png",
-        "url": "https://chatappplication.netlify.app/"
-      },
-      {
-        "title": "Limbo",
-        "category": "Projet réalisé, lors du confinement, afin de définir un rayon d'un kilomètre autour d'une position donnée (React/Leaflet)",
-        "image": "lockdown.png",
-        "url": "https://limboz.netlify.app/"
+        "title": ".Net API",
+        "category": "API Rest (En cours de réalisation) (.Net Framework/EF/MsSql)",
+        "image": "github.png"
       },
       {
         "title": "Plus de projet sur Github",
-        "category": "Express, Vue, REST, .NET ...",
+        "category": "GraphQl, Vue, REST, .NET ...",
         "image": "github.png",
         "url": "https://github.com/nicholas570"
       }
